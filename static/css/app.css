@@ -1,0 +1,8 @@
+.table-list tr *:first-child {
+    vertical-align: middle;
+    text-align: center;
+}
+
+.table-list td, .table-list th {
+    vertical-align: middle;
+}
